@@ -1526,3 +1526,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.13-21.27.11:161][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2025.02.13-21.27.11:168][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2025.02.13-21.27.11:237][847]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.02.13-21.32.29:603][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.02.13-21.32.29:606][225]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.019
+[2025.02.13-21.32.29:606][225]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game] ([2] browsable assets)...
+[2025.02.13-21.32.29:606][225]OBJ SavePackage: Finished generating thumbnails for package [/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game]
+[2025.02.13-21.32.29:609][225]LogSavePackage: Moving output files for package: /Temp/Autosaves/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game_Auto1
+[2025.02.13-21.32.29:609][225]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/RenderToTexture_Game_Auto13B916B054AE13E9C08B6359B79D32D17.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Engine/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game_Auto1.uasset'
+[2025.02.13-21.32.29:610][225]LogFileHelpers: Auto-saving content packages took 0.004

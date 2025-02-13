@@ -18,11 +18,10 @@ ABaseCharacter::ABaseCharacter()
 	SpringArm->SetupAttachment(RootComponent);
 	SpringArm->bUsePawnControlRotation = true;
 	bUseControllerRotationYaw = false;
+	SpringArm->SocketOffset = FVector(0.0f, 90.0f, 0.0f);
 
 	Camera = CreateDefaultSubobject<UCameraComponent>("Camera");
 	Camera->SetupAttachment(SpringArm);
-	CameraForward = Camera->GetForwardVector();
-	CameraRight = Camera->GetRightVector();
 
 	WalkSpeed = 500.0f;
 	SprintSpeed = 1000.0f;
@@ -69,14 +68,6 @@ void ABaseCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 void ABaseCharacter::MoveForward(float Value)
 {
 
-	/*
-	CameraForward.Z = 0.0f;
-	CameraForward.Normalize();
-	AddMovementInput(CameraForward, Value);
-	
-	*/
-
-
 	FRotator Rotation = Controller->GetControlRotation();
 	FVector ForwardVector = FRotationMatrix(Rotation).GetUnitAxis(EAxis::X);
 	ForwardVector.Z = 0.0f;
@@ -87,12 +78,6 @@ void ABaseCharacter::MoveForward(float Value)
 
 void ABaseCharacter::MoveRight(float Value)
 {
-
-	/*
-	CameraRight.Z = 0.0f;
-	CameraRight.Normalize();
-	AddMovementInput(CameraRight, Value);
-	*/
 
 	FRotator Rotation = Controller->GetControlRotation();
 	FVector RightVector = FRotationMatrix(Rotation).GetUnitAxis(EAxis::Y);

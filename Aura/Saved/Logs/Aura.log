@@ -1552,3 +1552,876 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.14-15.54.28:142][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.02.14-15.54.28:178][298]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
 [2025.02.14-15.54.28:179][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-15.58.59:752][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.02.14-15.58.59:756][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.02.14-15.58.59:766][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartupMap_Auto2
+[2025.02.14-15.58.59:766][842]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/StartupMap_Auto2256063E5433699FBEA418B8F57C664E2.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap'
+[2025.02.14-15.58.59:768][842]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto2.umap is in the /Temp path, will not scan.
+[2025.02.14-15.58.59:768][842]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/StartupMap_Auto2 is in the /Temp path, will not scan.
+[2025.02.14-15.58.59:768][842]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/StartupMap_Auto2 is in the /Temp path, will not scan.
+[2025.02.14-15.58.59:769][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.045
+[2025.02.14-15.58.59:769][842]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.02.14-15.58.59:769][842]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyMain/Character/BP_Aura] ([2] browsable assets)...
+[2025.02.14-15.58.59:912][842]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MyMain/Character/BP_Aura.BP_Aura]
+[2025.02.14-15.58.59:912][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Character/BP_Aura]
+[2025.02.14-15.58.59:912][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/BP_Aura" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.02.14-15.58.59:924][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Character/BP_Aura_Auto2
+[2025.02.14-15.58.59:924][842]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Aura_Auto27615E83F41F9FE65E6FF9A8BF0973C23.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto2.uasset'
+[2025.02.14-15.58.59:924][842]LogFileHelpers: Auto-saving content packages took 0.156
+[2025.02.14-16.09.00:318][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.02.14-16.09.00:322][743]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.020
+[2025.02.14-16.09.00:323][743]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyMain/Character/BP_Aura] ([2] browsable assets)...
+[2025.02.14-16.09.00:391][743]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MyMain/Character/BP_Aura.BP_Aura]
+[2025.02.14-16.09.00:391][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Character/BP_Aura]
+[2025.02.14-16.09.00:391][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/BP_Aura" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.02.14-16.09.00:398][743]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Character/BP_Aura_Auto3
+[2025.02.14-16.09.00:398][743]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Aura_Auto35EBCDE784D6B5DACA23F7E9BDD3F90A9.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto3.uasset'
+[2025.02.14-16.09.00:398][743]LogFileHelpers: Auto-saving content packages took 0.076
+[2025.02.14-16.40.06:768][822]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:50.416 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 26375 files in 28589 folders with total size 5077 MiB.
+[2025.02.14-16.40.51:908][525]BlueprintLog: New page: Compile BP_Aura
+[2025.02.14-16.40.51:964][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.02.14-16.42.25:753][172]BlueprintLog: New page: Compile BP_Aura
+[2025.02.14-16.42.25:792][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.02.14-16.42.39:753][335]BlueprintLog: New page: Compile BP_Aura
+[2025.02.14-16.42.39:792][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.02.14-16.43.04:474][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.14-16.43.04:477][497]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.023
+[2025.02.14-16.43.04:478][497]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyMain/Character/BP_Aura] ([2] browsable assets)...
+[2025.02.14-16.43.04:627][497]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MyMain/Character/BP_Aura.BP_Aura]
+[2025.02.14-16.43.04:627][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Character/BP_Aura]
+[2025.02.14-16.43.04:627][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/BP_Aura" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.02.14-16.43.04:641][497]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Character/BP_Aura_Auto4
+[2025.02.14-16.43.04:641][497]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Aura_Auto4894D329C4DA42D04B1A2629BD123CE73.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto4.uasset'
+[2025.02.14-16.43.04:641][497]LogFileHelpers: Auto-saving content packages took 0.164
+[2025.02.14-16.44.02:210][916]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.02.14-16.44.02:220][916]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.02.14-16.44.02:230][916]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.02.14-16.44.02:231][916]LogAutomationController: Ignoring very large delta of 4.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.14-16.44.02:243][917]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.02.14-16.44.07:556][337]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BP_Goblin
+[2025.02.14-16.44.07:565][337]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.02.14-16.44.07:566][337]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.44.08:976][443]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MyMain/Enemy/BP_Goblin.BP_Goblin
+[2025.02.14-16.44.08:976][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.44.08:976][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.44.08:988][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.44.08:988][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.44.08:998][443]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.14-16.44.09:309][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.44.09:309][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.44.09:461][443]LogViewport: Scene viewport resized to 498x587, mode Windowed.
+[2025.02.14-16.44.09:494][443]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.02.14-16.44.42:943][104]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Spear/Run_Spear_fix.Run_Spear_fix
+[2025.02.14-16.44.42:943][104]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Spear/Idle_Spear2.Idle_Spear2
+[2025.02.14-16.44.42:949][104]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Spear/Run_Spear_fix.Run_Spear_fix, at AnimationSequence/235e9691a14a94322181f1b66ff921aef3dea71e
+[2025.02.14-16.44.42:971][104]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Spear/Idle_Spear2.Idle_Spear2, at AnimationSequence/e05b6784aefd7caa75ac66e64f35fc1e7398bf4b
+[2025.02.14-16.44.47:243][479]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Assets/Enemies/Goblin/Animations/Spear/BS_GoblinSpear_IdleRun.BS_GoblinSpear_IdleRun
+[2025.02.14-16.44.47:243][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.44.47:244][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.44.47:255][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.14-16.44.47:514][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.44.47:514][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.44.47:718][479]LogViewport: Scene viewport resized to 1284x749, mode Windowed.
+[2025.02.14-16.44.47:753][479]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.02.14-16.45.01:301][405]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.45.01:301][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.45.01:361][405]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.45.01:361][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.45.04:186][665]BlueprintLog: New page: Compile BP_Goblin
+[2025.02.14-16.45.04:229][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.02.14-16.47.07:629][455]BlueprintLog: New page: Compile BP_Goblin
+[2025.02.14-16.47.07:670][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.14-16.47.15:621][175]BlueprintLog: New page: Compile BP_Goblin
+[2025.02.14-16.47.15:655][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.14-16.51.17:659][458]LogEditorClassViewer: Warning: Class /Game/MyMain/BP_AuraCharacter.BP_AuraCharacter_C has parent /Script/Aura.BaseCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.02.14-16.51.34:742][458]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.14-16.51.34:751][458]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.14-16.51.34:761][458]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.14-16.51.34:763][458]LogAutomationController: Ignoring very large delta of 17.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.14-16.51.34:776][459]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.14-16.51.43:966][203]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Goblin_Slingshot
+[2025.02.14-16.51.43:974][203]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.14-16.51.45:317][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2025.02.14-16.51.45:317][316]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.51.45:317][316]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.51.45:464][316]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.45:464][316]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.45:464][316]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.45:482][316]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.45:483][316]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.45:483][316]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.45:483][316]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.45:483][316]LogViewport: Scene viewport resized to 1580x973, mode Windowed.
+[2025.02.14-16.51.59:440][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:441][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:441][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:441][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:442][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:443][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:443][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:443][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:448][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.51.59:464][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:464][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:464][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:464][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:464][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:464][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:482][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:482][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:482][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:482][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.51.59:482][266]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:925][668]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:925][668]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:925][668]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:925][668]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:934][669]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:934][669]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:934][669]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:944][670]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:944][670]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:944][670]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:954][671]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:954][671]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:954][671]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:967][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:967][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:967][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:967][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:967][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:967][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:968][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:969][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:969][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:969][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:969][672]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:979][673]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:979][673]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:980][673]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:990][674]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.03:990][674]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.03:990][674]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:002][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:002][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:002][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:002][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:002][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:002][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:002][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:003][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:003][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:003][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:003][675]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:013][676]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:014][676]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:014][676]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:024][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:024][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:024][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:025][677]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:035][678]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:035][678]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:035][678]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:045][679]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:045][679]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:045][679]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:055][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:055][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:055][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:055][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:055][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:055][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:056][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:056][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:056][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:056][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:056][680]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:069][681]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:070][681]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:070][681]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:070][681]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:080][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:080][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:080][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:080][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:080][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:080][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:080][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:081][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:081][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:081][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:081][682]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:092][683]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:092][683]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:092][683]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:103][684]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:103][684]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:103][684]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:114][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:115][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:115][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:115][685]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:124][686]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:124][686]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:125][686]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:134][687]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:134][687]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:135][687]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:144][688]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:144][688]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:144][688]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:154][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:155][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:155][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:155][689]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:165][690]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:165][690]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:166][690]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:176][691]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:176][691]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:176][691]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:186][692]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:186][692]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:186][692]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:196][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:198][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:198][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:198][693]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:207][694]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:207][694]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:207][694]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:218][695]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:218][695]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:218][695]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:227][696]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:227][696]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:227][696]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:237][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:237][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:237][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:237][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:237][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:237][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:237][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:238][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:238][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:238][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:238][697]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_37:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:248][698]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:248][698]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:248][698]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:258][699]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:258][699]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:258][699]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:270][700]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:270][700]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:270][700]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:280][701]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:280][701]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:280][701]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:288][702]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:290][702]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:290][702]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:299][703]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:299][703]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:299][703]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:309][704]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:309][704]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:309][704]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:319][705]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:319][705]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:319][705]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:328][706]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:328][706]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:328][706]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:336][707]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:336][707]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:336][707]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:345][708]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:345][708]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:346][708]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:355][709]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:355][709]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:355][709]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:363][710]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:363][710]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:363][710]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:372][711]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:372][711]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:372][711]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:380][712]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:381][712]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:381][712]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:389][713]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:390][713]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:390][713]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:400][714]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:400][714]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:400][714]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:410][715]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:410][715]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:411][715]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:422][716]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:422][716]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:422][716]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:434][717]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:435][717]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:435][717]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:444][718]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:444][718]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:444][718]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:456][719]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:456][719]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:456][719]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:467][720]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:467][720]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:467][720]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:479][721]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:479][721]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:479][721]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:491][722]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:491][722]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:491][722]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:503][723]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:503][723]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:503][723]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:515][724]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:515][724]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:515][724]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:526][725]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:526][725]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:528][725]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:540][726]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:540][726]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:540][726]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:551][727]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:551][727]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:552][727]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:563][728]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:563][728]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:563][728]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:575][729]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:575][729]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:575][729]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:586][730]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:586][730]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:586][730]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:598][731]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:598][731]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:598][731]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:610][732]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:611][732]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:611][732]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:622][733]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:622][733]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:622][733]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:634][734]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:634][734]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:634][734]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:646][735]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:646][735]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:646][735]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:659][736]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:659][736]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:659][736]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:670][737]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:670][737]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:670][737]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:682][738]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:682][738]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:682][738]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:694][739]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:694][739]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:694][739]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:706][740]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:706][740]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:706][740]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:717][741]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:717][741]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:718][741]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:730][742]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:730][742]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:730][742]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:742][743]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:742][743]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:742][743]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:754][744]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:754][744]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:754][744]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:766][745]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:766][745]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:766][745]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:778][746]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:778][746]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:778][746]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:790][747]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:790][747]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:790][747]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:801][748]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:801][748]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:801][748]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:813][749]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:813][749]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:813][749]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:825][750]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.52.04:825][750]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Game/MyMain/Enemy/BP_Goblin_Slingshot.Default__BP_Goblin_Slingshot_C)
+[2025.02.14-16.52.04:825][750]LogSkinnedMeshComp: Warning: GetSocketInfoByName(WeaponHandSocket): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Goblin_Slingshot_C /Engine/Transient.World_36:PersistentLevel.BP_Goblin_Slingshot_C_0)
+[2025.02.14-16.53.04:838][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.02.14-16.53.04:842][555]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.023
+[2025.02.14-16.53.04:842][555]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyMain/Enemy/BP_Goblin] ([2] browsable assets)...
+[2025.02.14-16.53.04:851][555]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MyMain/Enemy/BP_Goblin.BP_Goblin]
+[2025.02.14-16.53.04:851][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Enemy/BP_Goblin]
+[2025.02.14-16.53.04:852][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/BP_Goblin" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Enemy/BP_Goblin_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.02.14-16.53.04:865][555]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Enemy/BP_Goblin_Auto5
+[2025.02.14-16.53.04:865][555]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin_Auto5B9FA284640C9824F238EFAAA8F45CC04.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Enemy/BP_Goblin_Auto5.uasset'
+[2025.02.14-16.53.04:866][555]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyMain/Enemy/BP_Goblin_Slingshot] ([2] browsable assets)...
+[2025.02.14-16.53.04:872][555]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot]
+[2025.02.14-16.53.04:873][555]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.53.04:895][555]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot_C]
+[2025.02.14-16.53.04:895][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Enemy/BP_Goblin_Slingshot]
+[2025.02.14-16.53.04:900][555]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Enemy/BP_Goblin_Slingshot_Auto5
+[2025.02.14-16.53.04:900][555]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin_Slingshot_Auto54DA5876748EC23A998C68AA4BFBE7C37.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Enemy/BP_Goblin_Slingshot_Auto5.uasset'
+[2025.02.14-16.53.04:901][555]LogFileHelpers: Auto-saving content packages took 0.058
+[2025.02.14-16.53.27:850][481]BlueprintLog: New page: Compile BP_Goblin_Slingshot
+[2025.02.14-16.53.27:908][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.02.14-16.53.55:772][573]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.14-16.53.55:787][573]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.14-16.53.55:801][574]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.14-16.53.59:388][866]LogContentBrowser: Attempting asset rename: NewFolder -> GoblinSpear
+[2025.02.14-16.53.59:388][866]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.SKEL_BP_Goblin_C' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin_C' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateEntryNode_0' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin:AnimGraph.AnimGraphNode_StateMachine_0.New State Machine.AnimStateNode_0.Idle/Walk/Run.AnimGraphNode_StateResult_0' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.SKEL_BP_Goblin_C:BlueprintUpdateAnimation' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.SKEL_BP_Goblin_C:BlueprintInitializeAnimation' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.SKEL_BP_Goblin_C:AnimGraph' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin_C:BlueprintInitializeAnimation' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin_C:BlueprintUpdateAnimation' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:583][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin_C:AnimGraph' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear_C' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.SKEL_BP_Goblin_Spear_C' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.SKEL_BP_Goblin_Spear_C:ReceiveBeginPlay' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.SKEL_BP_Goblin_Spear_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.SKEL_BP_Goblin_Spear_C:ReceiveTick' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:596][387]LogMetaData: Removing '/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.SKEL_BP_Goblin_Spear_C:UserConstructionScript' ref from Metadata '/Game/MyMain/Enemy/BP_Goblin_Spear.PackageMetaData'
+[2025.02.14-16.54.06:606][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.14-16.54.06:651][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/GoblinSpear/BP_Goblin" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/GoblinSpear/BP_Goblin.uasset" SILENT=true
+[2025.02.14-16.54.06:663][387]LogSavePackage: Moving output files for package: /Game/MyMain/Enemy/GoblinSpear/BP_Goblin
+[2025.02.14-16.54.06:663][387]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin869FF2804363A1BD4DAACDBD52525F2E.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/GoblinSpear/BP_Goblin.uasset'
+[2025.02.14-16.54.06:822][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.uasset" SILENT=true
+[2025.02.14-16.54.06:826][387]LogSavePackage: Moving output files for package: /Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear
+[2025.02.14-16.54.06:826][387]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin_Spear161318004827D76F7A5422BD008BA621.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.uasset'
+[2025.02.14-16.54.06:841][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 895 ms)
+[2025.02.14-16.54.06:880][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.02.14-16.54.06:900][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.02.14-16.54.06:917][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.14-16.54.06:937][387]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.14-16.54.06:937][387]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/MyMain/Enemy/GoblinSpear/BP_Goblin.BP_Goblin
+[2025.02.14-16.54.06:937][387]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear
+[2025.02.14-16.54.13:259][906]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.02.14-16.54.13:311][906]LogEditorClassViewer: Warning: Class /Game/MyMain/BP_AuraCharacter.BP_AuraCharacter_C has parent /Script/Aura.BaseCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.02.14-16.54.15:884][109]LogShaderCompilers: Display: ================================================
+[2025.02.14-16.54.15:884][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.14-16.54.15:884][109]LogShaderCompilers: Display: Total job queries 98, among them cache hits 64 (65.31%)
+[2025.02.14-16.54.15:884][109]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 11 distinct outputs (42.31%)
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: RAM used: 532.65 KiB of 1.60 GiB budget. Usage: 0.03%
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Shaders Compiled: 24
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Average time worker was idle: 95.94 s
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.24 s
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 2.03 s
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 2.03
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Shader code size: average 36.302 KiB, min 32.969 KiB, max 38.246 KiB
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.88 s
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Average processing rate: 6.18 jobs/sec
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Total thread time: 5.657 s
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Total thread preprocess time: 0.674 s
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Percentage time preprocessing: 11.91%
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Effective parallelization: 1.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.02.14-16.54.15:885][109]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.28 sec, max 0.31 sec, min 0.25 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    4 times, average 0.24 sec, max 0.25 sec, min 0.22 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.12 sec, max 0.14 sec, min 0.10 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 40.09% of total time (compiled    8 times, average 0.28 sec, max 0.31 sec, min 0.25 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 35.02% of total time (compiled    8 times, average 0.25 sec, max 0.27 sec, min 0.23 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.66% of total time (compiled    4 times, average 0.24 sec, max 0.25 sec, min 0.22 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.24% of total time (compiled    4 times, average 0.12 sec, max 0.14 sec, min 0.10 sec)
+[2025.02.14-16.54.15:886][109]LogShaderCompilers: Display: ================================================
+[2025.02.14-16.55.20:937][ 81]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.02.14-16.55.20:951][ 81]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.02.14-16.55.20:962][ 81]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.02.14-16.55.20:963][ 81]LogAutomationController: Ignoring very large delta of 3.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.14-16.55.20:979][ 82]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.02.14-16.55.26:506][525]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_GoblinSling
+[2025.02.14-16.55.26:519][525]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.02.14-16.55.26:520][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.55.27:698][610]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling
+[2025.02.14-16.55.27:698][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.55.27:698][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.55.27:706][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.55.27:706][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.55.27:718][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.14-16.55.28:022][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.55.28:022][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.55.28:200][610]LogViewport: Scene viewport resized to 498x587, mode Windowed.
+[2025.02.14-16.55.28:230][610]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.02.14-16.55.43:723][ 39]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.02.14-16.55.51:349][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.14-16.55.51:397][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/ABP_GoblinSling" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/ABP_GoblinSling.uasset" SILENT=true
+[2025.02.14-16.55.51:405][804]LogSavePackage: Moving output files for package: /Game/MyMain/Enemy/ABP_GoblinSling
+[2025.02.14-16.55.51:405][804]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/ABP_GoblinSling4E59D82B4BAFD6E75F983AA5577AB121.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/ABP_GoblinSling.uasset'
+[2025.02.14-16.55.51:421][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 969 ms)
+[2025.02.14-16.55.51:422][804]AssetCheck: New page: Asset Save: ABP_GoblinSling
+[2025.02.14-16.55.51:422][804]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling
+[2025.02.14-16.55.52:065][866]BlueprintLog: New page: Compile ABP_GoblinSling
+[2025.02.14-16.55.52:069][866]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.55.52:070][866]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.55.52:070][866]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.55.52:071][866]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Invalid field 'Speed' found in property path for  Blendspace Player 'BS_GoblinSpear_IdleRun'
+[2025.02.14-16.55.52:072][866]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Invalid field 'Speed' found in property path for  Blendspace Player 'BS_GoblinSpear_IdleRun'
+[2025.02.14-16.55.52:110][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.02.14-16.56.02:563][831]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.02:563][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.02:587][831]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.02:587][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.02:645][831]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.02:645][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.02:673][831]LogViewport: Scene viewport resized to 789x441, mode Windowed.
+[2025.02.14-16.56.03:895][920]LogViewport: Scene viewport resized to 1580x973, mode Windowed.
+[2025.02.14-16.56.04:918][  1]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.04:920][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.04:941][  1]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.04:941][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.05:015][  1]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.05:015][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.05:548][ 40]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.05:548][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.06:144][ 80]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.06:144][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.06:160][ 80]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.06:160][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.06:205][ 80]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.56.06:205][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.56.08:392][243]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling
+[2025.02.14-16.56.08:392][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.56.08:392][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.56.08:403][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.56.08:403][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.56.08:413][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.14-16.56.08:708][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.56.08:708][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.56.08:857][243]LogViewport: Scene viewport resized to 498x587, mode Windowed.
+[2025.02.14-16.56.08:898][243]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.02.14-16.56.14:488][789]BlueprintLog: New page: Compile ABP_GoblinSling
+[2025.02.14-16.56.14:492][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Set Speed
+[2025.02.14-16.56.14:492][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Character Movement" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Character Movement
+[2025.02.14-16.56.14:492][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "As BP Goblin Spear" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get
+[2025.02.14-16.56.14:493][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Character Movement" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Set Character Movement
+[2025.02.14-16.56.14:493][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "As BP Goblin Spear" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Set As BP Goblin Spear
+[2025.02.14-16.56.14:493][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.56.14:494][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.56.14:495][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Set Speed
+[2025.02.14-16.56.14:495][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Character Movement" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Character Movement
+[2025.02.14-16.56.14:495][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "As BP Goblin Spear" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get
+[2025.02.14-16.56.14:496][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Character Movement" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Set Character Movement
+[2025.02.14-16.56.14:496][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "As BP Goblin Spear" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Set As BP Goblin Spear
+[2025.02.14-16.56.14:496][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.56.14:497][789]LogBlueprint: Error: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2025.02.14-16.56.14:497][789]LogBlueprint: Error: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] The property associated with  Character Movement  could not be found in '/Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling_C'
+[2025.02.14-16.56.14:497][789]LogBlueprint: Error: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] The property associated with  Speed  could not be found in '/Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling_C'
+[2025.02.14-16.56.14:499][789]LogBlueprint: Error: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] The property associated with  As BP Goblin Spear  could not be found in '/Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling_C'
+[2025.02.14-16.56.14:499][789]LogBlueprint: Error: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Variable node  Get CharacterMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.02.14-16.56.14:499][789]LogBlueprint: Error: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] The property associated with  As BP Goblin Spear  could not be found in '/Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling_C'
+[2025.02.14-16.56.14:499][789]LogBlueprint: Error: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] The property associated with  Character Movement  could not be found in '/Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling_C'
+[2025.02.14-16.56.14:499][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Invalid field 'Speed' found in property path for  Blendspace Player 'BS_GoblinSpear_IdleRun'
+[2025.02.14-16.56.14:499][789]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Invalid field 'Speed' found in property path for  Blendspace Player 'BS_GoblinSpear_IdleRun'
+[2025.02.14-16.56.14:536][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.02.14-16.57.04:841][884]BlueprintLog: New page: Compile ABP_GoblinSling
+[2025.02.14-16.57.04:844][884]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.57.04:845][884]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.57.04:846][884]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Could not find a variable named "Speed" in 'ABP_GoblinSling_C'.
+Make sure 'ABP_GoblinSling_C' has been compiled for  Get Speed
+[2025.02.14-16.57.04:846][884]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Invalid field 'Speed' found in property path for  Blendspace Player 'BS_GoblinSpear_IdleRun'
+[2025.02.14-16.57.04:846][884]LogBlueprint: Warning: [AssetLog] D:\Unreal Engine 5\Projects\AuraRPG\Aura\Content\MyMain\Enemy\ABP_GoblinSling.uasset: [Compiler] Invalid field 'Speed' found in property path for  Blendspace Player 'BS_GoblinSpear_IdleRun'
+[2025.02.14-16.57.04:880][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.02.14-16.57.16:742][879]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Slingshot/Death_Slingshot.Death_Slingshot
+[2025.02.14-16.57.16:752][879]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Slingshot/Death_Slingshot.Death_Slingshot, at AnimationSequence/714011ad3bff59e98a71926889d29b757843d0a3
+[2025.02.14-16.57.17:885][987]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2025.02.14-16.57.18:200][ 13]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Slingshot/Running_Slingshot.Running_Slingshot
+[2025.02.14-16.57.18:201][ 13]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Assets/Enemies/Goblin/Animations/Slingshot/Idle_Slingshot.Idle_Slingshot
+[2025.02.14-16.57.18:206][ 13]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Slingshot/Running_Slingshot.Running_Slingshot, at AnimationSequence/05d00921d8797d8a2eb4c22adbd985c2d7a9c38d
+[2025.02.14-16.57.18:225][ 13]LogAnimationCompression: Display: Storing compressed animation data for /Game/Assets/Enemies/Goblin/Animations/Slingshot/Idle_Slingshot.Idle_Slingshot, at AnimationSequence/d8b3f4a303dbea0a34b062a3737dd95b9079f13a
+[2025.02.14-16.57.26:533][601]BlueprintLog: New page: Compile ABP_GoblinSling
+[2025.02.14-16.57.26:570][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.02.14-16.57.31:521][ 21]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2025.02.14-16.57.31:521][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.57.31:522][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.57.37:634][528]LogEditorClassViewer: Warning: Class /Game/MyMain/BP_AuraCharacter.BP_AuraCharacter_C has parent /Script/Aura.BaseCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.02.14-16.57.46:008][206]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-16.57.46:008][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-16.57.46:032][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2025.02.14-16.57.46:032][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-16.57.46:032][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-16.57.47:059][276]LogViewport: Scene viewport resized to 1580x973, mode Windowed.
+[2025.02.14-16.58.03:023][647]BlueprintLog: New page: Compile BP_Goblin_Spear
+[2025.02.14-16.58.03:164][647]LogScript: Warning: Attempted to access BP_Goblin_Slingshot_C_0 via property As BP Goblin Slingshot, but BP_Goblin_Slingshot_C_0 is not valid (pending kill or garbage)
+	ABP_GoblinSling_C /Engine/Transient.World_46:PersistentLevel.BP_Goblin_Slingshot_C_0.CharacterMesh0.ABP_GoblinSling_C_0
+	Function /Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling_C:ExecuteUbergraph_ABP_GoblinSling:00AA
+[2025.02.14-16.58.03:186][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.02.14-16.58.05:054][771]LogEditorClassViewer: Warning: Class /Game/MyMain/BP_AuraCharacter.BP_AuraCharacter_C has parent /Script/Aura.BaseCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.02.14-16.58.09:013][125]BlueprintLog: New page: Compile BP_AuraCharacter
+[2025.02.14-16.58.09:089][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.02.14-17.03.05:303][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.02.14-17.03.05:308][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.02.14-17.03.05:318][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartupMap_Auto6
+[2025.02.14-17.03.05:319][493]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/StartupMap_Auto697DEEE194FAA6D607B613391080F3ADB.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto6.umap'
+[2025.02.14-17.03.05:320][493]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/Maps/StartupMap_Auto6.umap is in the /Temp path, will not scan.
+[2025.02.14-17.03.05:320][493]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Maps/StartupMap_Auto6 is in the /Temp path, will not scan.
+[2025.02.14-17.03.05:320][493]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Maps/StartupMap_Auto6 is in the /Temp path, will not scan.
+[2025.02.14-17.03.05:320][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.034
+[2025.02.14-17.03.05:320][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2025.02.14-17.03.05:320][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyMain/Character/BP_AuraCharacter] ([2] browsable assets)...
+[2025.02.14-17.03.05:482][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter]
+[2025.02.14-17.03.05:482][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Character/BP_AuraCharacter]
+[2025.02.14-17.03.05:488][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Character/BP_AuraCharacter_Auto6
+[2025.02.14-17.03.05:488][493]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_AuraCharacter_Auto6DE1B24E64EB926795BBF9BBCDF61CBCD.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_AuraCharacter_Auto6.uasset'
+[2025.02.14-17.03.05:488][493]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyMain/Character/BP_Aura] ([2] browsable assets)...
+[2025.02.14-17.03.05:495][493]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MyMain/Character/BP_Aura.BP_Aura]
+[2025.02.14-17.03.05:495][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Character/BP_Aura]
+[2025.02.14-17.03.05:495][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/BP_Aura" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.02.14-17.03.05:508][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Character/BP_Aura_Auto6
+[2025.02.14-17.03.05:508][493]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Aura_Auto65037BE284B07375A77C920B9D7CF7A35.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/BP_Aura_Auto6.uasset'
+[2025.02.14-17.03.05:512][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear] ([2] browsable assets)...
+[2025.02.14-17.03.05:519][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear]
+[2025.02.14-17.03.05:519][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear]
+[2025.02.14-17.03.05:522][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear_Auto6
+[2025.02.14-17.03.05:523][493]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin_Spear_Auto6B0AC72DA43DCD137311B13A4FE936B13.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear_Auto6.uasset'
+[2025.02.14-17.03.05:523][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyMain/Enemy/BP_Goblin_Slingshot] ([2] browsable assets)...
+[2025.02.14-17.03.05:530][493]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot]
+[2025.02.14-17.03.05:530][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Enemy/BP_Goblin_Slingshot]
+[2025.02.14-17.03.05:535][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Enemy/BP_Goblin_Slingshot_Auto6
+[2025.02.14-17.03.05:535][493]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin_Slingshot_Auto6FF22A5AF46749F948C9AF98DF095567E.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Enemy/BP_Goblin_Slingshot_Auto6.uasset'
+[2025.02.14-17.03.05:535][493]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyMain/Enemy/ABP_GoblinSling] ([2] browsable assets)...
+[2025.02.14-17.03.05:543][493]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling]
+[2025.02.14-17.03.05:543][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Enemy/ABP_GoblinSling]
+[2025.02.14-17.03.05:543][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/ABP_GoblinSling" FILE="../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Enemy/ABP_GoblinSling_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.02.14-17.03.05:556][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Enemy/ABP_GoblinSling_Auto6
+[2025.02.14-17.03.05:556][493]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/ABP_GoblinSling_Auto6FC0090C041006C113457A8ACA8F07E05.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Enemy/ABP_GoblinSling_Auto6.uasset'
+[2025.02.14-17.03.05:556][493]LogFileHelpers: Auto-saving content packages took 0.236
+[2025.02.14-17.04.02:282][664]LogEditorClassViewer: Warning: Class /Game/MyMain/BP_AuraCharacter.BP_AuraCharacter_C has parent /Script/Aura.BaseCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.02.14-17.04.10:149][268]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/MyMain/Character/BP_Aura.BP_Aura
+[2025.02.14-17.04.10:150][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-17.04.10:150][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-17.04.10:160][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-17.04.10:161][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-17.04.10:171][268]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.14-17.04.10:483][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-17.04.10:483][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-17.04.10:664][268]LogViewport: Scene viewport resized to 498x587, mode Windowed.
+[2025.02.14-17.04.10:716][268]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.02.14-17.04.22:300][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter_C
+[2025.02.14-17.04.22:300][149]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter_C
+[2025.02.14-17.04.22:302][149]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter as actor: BP_AuraCharacter_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_AuraCharacter_C_2
+[2025.02.14-17.04.22:302][149]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter as actor: BP_AuraCharacter_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_AuraCharacter_C_2
+[2025.02.14-17.04.22:690][180]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter_C
+[2025.02.14-17.04.22:690][180]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter_C
+[2025.02.14-17.04.22:694][180]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter as actor: BP_AuraCharacter_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_AuraCharacter_C_3
+[2025.02.14-17.04.22:695][180]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter as actor: BP_AuraCharacter_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_AuraCharacter_C_3
+[2025.02.14-17.04.26:008][390]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot_C
+[2025.02.14-17.04.26:008][390]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot_C
+[2025.02.14-17.04.26:010][390]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot as actor: BP_Goblin_Slingshot_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_Goblin_Slingshot_C_0
+[2025.02.14-17.04.26:011][390]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot as actor: BP_Goblin_Slingshot_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_Goblin_Slingshot_C_0
+[2025.02.14-17.04.26:254][405]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot_C
+[2025.02.14-17.04.26:254][405]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot_C
+[2025.02.14-17.04.26:258][405]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot as actor: BP_Goblin_Slingshot_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_Goblin_Slingshot_C_1
+[2025.02.14-17.04.26:259][405]LogActorFactory: Actor Factory spawned Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot as actor: BP_Goblin_Slingshot_C /Game/Maps/StartupMap.StartupMap:PersistentLevel.BP_Goblin_Slingshot_C_1
+[2025.02.14-17.04.35:902][118]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.35:902][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.36:113][121]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.14-17.04.36:113][121]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.36:113][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.36:431][131]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.36:431][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.36:452][131]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.36:452][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.36:529][131]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.36:529][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.37:000][165]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.14-17.04.37:001][165]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.37:001][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.37:428][187]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.37:428][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.37:446][187]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.37:447][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.37:502][187]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-17.04.37:502][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-17.04.55:143][477]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.02.14-17.04.55:143][477]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.02.14-17.04.57:780][671]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.14-17.04.57:796][671]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.14-17.04.57:808][672]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.14-17.05.01:181][912]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2025.02.14-17.05.01:181][912]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.14-17.05.08:105][447]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.14-17.05.08:137][447]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.14-17.05.08:274][449]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.14-17.05.12:928][836]LogContentBrowser: Attempting asset rename: NewFolder -> InputAction
+[2025.02.14-17.05.12:928][836]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.14-17.05.22:781][543]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.02.14-17.05.22:793][543]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.02.14-17.05.22:954][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.02.14-17.05.28:284][931]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2025.02.14-17.05.28:286][931]LogContentBrowser: End creating deferred item NewInputAction
+[2025.02.14-17.05.29:723][ 43]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/MyMain/Character/Input/InputAction/IA_Move.IA_Move
+[2025.02.14-17.06.06:848][422]LogSlate: Window 'IA_Move' being destroyed
+[2025.02.14-17.06.58:511][130]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.02.14-17.06.58:523][130]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.02.14-17.06.58:540][131]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.02.14-17.07.07:685][813]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_AuraContext
+[2025.02.14-17.07.07:686][813]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.02.14-17.07.08:928][913]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/MyMain/Character/Input/IMC_AuraContext.IMC_AuraContext
+[2025.02.14-17.09.35:085][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.02.14-17.09.35:912][924]LogSlate: Window 'Save Content' being destroyed
+[2025.02.14-17.09.35:922][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.14-17.09.35:963][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartupMap" FILE="../../../../Projects/AuraRPG/Aura/Content/Maps/StartupMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.14-17.09.36:002][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.02.14-17.09.36:016][924]LogSavePackage: Moving output files for package: /Game/Maps/StartupMap
+[2025.02.14-17.09.36:017][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/StartupMapD4DFC77A40936C0977B7DC997D4DD385.tmp' to '../../../../Projects/AuraRPG/Aura/Content/Maps/StartupMap.umap'
+[2025.02.14-17.09.36:028][924]LogFileHelpers: Saving map 'StartupMap' took 0.064
+[2025.02.14-17.09.36:028][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/ABP_GoblinSling" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/ABP_GoblinSling.uasset" SILENT=true
+[2025.02.14-17.09.36:041][924]LogSavePackage: Moving output files for package: /Game/MyMain/Enemy/ABP_GoblinSling
+[2025.02.14-17.09.36:042][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/ABP_GoblinSlingE299150B4DB8B4D260AF6EB7D939FEC0.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/ABP_GoblinSling.uasset'
+[2025.02.14-17.09.36:043][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/BP_Aura" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/BP_Aura.uasset" SILENT=true
+[2025.02.14-17.09.36:054][924]LogSavePackage: Moving output files for package: /Game/MyMain/Character/BP_Aura
+[2025.02.14-17.09.36:054][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_AuraD930ACC44AC0AC033EE965A3AD7BDD8C.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/BP_Aura.uasset'
+[2025.02.14-17.09.36:246][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/BP_AuraCharacter" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/BP_AuraCharacter.uasset" SILENT=true
+[2025.02.14-17.09.36:253][924]LogSavePackage: Moving output files for package: /Game/MyMain/Character/BP_AuraCharacter
+[2025.02.14-17.09.36:253][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_AuraCharacterF6A47E8C4BDEF320B7597A989BF52CAB.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/BP_AuraCharacter.uasset'
+[2025.02.14-17.09.36:254][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/BP_Goblin_Slingshot" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/BP_Goblin_Slingshot.uasset" SILENT=true
+[2025.02.14-17.09.36:257][924]LogSavePackage: Moving output files for package: /Game/MyMain/Enemy/BP_Goblin_Slingshot
+[2025.02.14-17.09.36:258][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin_SlingshotFD6915934DCBF6799102B2B322FEC6BA.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/BP_Goblin_Slingshot.uasset'
+[2025.02.14-17.09.36:261][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.uasset" SILENT=true
+[2025.02.14-17.09.36:264][924]LogSavePackage: Moving output files for package: /Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear
+[2025.02.14-17.09.36:265][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/BP_Goblin_SpearCA6FA59F4BC43614A9006E95F4D1571E.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.uasset'
+[2025.02.14-17.09.36:266][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/Input/InputAction/IA_Move" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/Input/InputAction/IA_Move.uasset" SILENT=true
+[2025.02.14-17.09.36:269][924]LogSavePackage: Moving output files for package: /Game/MyMain/Character/Input/InputAction/IA_Move
+[2025.02.14-17.09.36:269][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/IA_MoveEE4102B04BDDC0DD84118D87CA725040.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/Input/InputAction/IA_Move.uasset'
+[2025.02.14-17.09.36:270][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMain/Character/Input/IMC_AuraContext" FILE="../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/Input/IMC_AuraContext.uasset" SILENT=true
+[2025.02.14-17.09.36:271][924]LogSavePackage: Moving output files for package: /Game/MyMain/Character/Input/IMC_AuraContext
+[2025.02.14-17.09.36:271][924]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/IMC_AuraContextDC92F4E44BB3F44EBAB3BA9919F7769F.tmp' to '../../../../Projects/AuraRPG/Aura/Content/MyMain/Character/Input/IMC_AuraContext.uasset'
+[2025.02.14-17.09.36:280][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 357 ms (total: 1.32 sec)
+[2025.02.14-17.09.36:281][924]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.14-17.09.36:281][924]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StartupMap.StartupMap
+[2025.02.14-17.09.36:281][924]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/MyMain/Enemy/ABP_GoblinSling.ABP_GoblinSling
+[2025.02.14-17.09.36:281][924]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/MyMain/Character/BP_Aura.BP_Aura
+[2025.02.14-17.09.36:281][924]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyMain/Character/BP_AuraCharacter.BP_AuraCharacter
+[2025.02.14-17.09.36:281][924]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyMain/Enemy/BP_Goblin_Slingshot.BP_Goblin_Slingshot
+[2025.02.14-17.09.36:282][924]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyMain/Enemy/GoblinSpear/BP_Goblin_Spear.BP_Goblin_Spear
+[2025.02.14-17.09.36:282][924]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/MyMain/Character/Input/InputAction/IA_Move.IA_Move
+[2025.02.14-17.09.36:282][924]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/MyMain/Character/Input/IMC_AuraContext.IMC_AuraContext
+[2025.02.14-17.13.11:027][378]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.02.14-17.14.03:597][177]Running D:/Unreal Engine 5/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="D:/Unreal Engine 5/Projects/AuraRPG/Aura/Aura.uproject" -game -rocket -progress
+[2025.02.14-17.14.03:711][177]Using bundled DotNet SDK version: 6.0.302
+[2025.02.14-17.14.03:711][177]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="D:/Unreal Engine 5/Projects/AuraRPG/Aura/Aura.uproject" -game -rocket -progress
+[2025.02.14-17.14.04:113][177]Log file: C:\Users\willi\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.02.14-17.14.04:514][177]
+[2025.02.14-17.14.04:514][177]Some Platforms were skipped due to invalid SDK setup: Android, Linux, LinuxArm64.
+[2025.02.14-17.14.04:514][177]See the log file for detailed information
+[2025.02.14-17.14.04:514][177]
+[2025.02.14-17.14.04:514][177]
+[2025.02.14-17.14.04:514][177]Generating VisualStudio2022 project files:
+[2025.02.14-17.14.04:514][177]Discovering modules, targets and source code for project...
+[2025.02.14-17.14.05:721][177]Binding IntelliSense data...
+[2025.02.14-17.14.08:946][177]Binding IntelliSense data... 100%
+[2025.02.14-17.14.08:946][177]Creating common properties file...
+[2025.02.14-17.14.08:946][177]Creating common properties file... 0%
+[2025.02.14-17.14.08:946][177]Writing project files...
+[2025.02.14-17.14.09:048][177]Forcing LEGACY XCODE because host OS is not Mac
+[2025.02.14-17.14.10:365][177]Writing project files... 100%
+[2025.02.14-17.14.10:366][177]
+[2025.02.14-17.14.10:366][177]Generating QueryTargets data for editor...
+[2025.02.14-17.14.16:438][177]LogSlate: Window 'Message' being destroyed
+[2025.02.14-17.14.16:444][177]Message dialog closed, result: No, title: Message, text: Successfully added class 'AuraPlayerController', however you must recompile the 'Aura' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2025.02.14-17.14.16:444][177]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.02.14-17.14.16:458][177]LogAutomationController: Ignoring very large delta of 13.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.14-17.16.36:251][441]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Динамики (2- USB Audio Device), InstanceID=1
+[2025.02.14-17.16.36:259][441]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21620
+[2025.02.14-17.16.36:593][442]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{51863eee-3f9a-43e8-af0f-97dec069391b}, Name=Динамики (2- USB Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=44.75
+[2025.02.14-17.16.36:596][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.02.14-17.16.36:598][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.02.14-17.19.35:357][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.02.14-17.19.35:367][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartupMap' took 0.031
+[2025.02.14-17.19.35:367][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMain/Character/Input/IMC_AuraContext] ([1] browsable assets)...
+[2025.02.14-17.19.35:367][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMain/Character/Input/IMC_AuraContext]
+[2025.02.14-17.19.35:369][978]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMain/Character/Input/IMC_AuraContext_Auto7
+[2025.02.14-17.19.35:369][978]LogSavePackage: Moving '../../../../Projects/AuraRPG/Aura/Saved/IMC_AuraContext_Auto7C35132D94268A90E4A6387ACE311048E.tmp' to '../../../../Projects/AuraRPG/Aura/Saved/Autosaves/Game/MyMain/Character/Input/IMC_AuraContext_Auto7.uasset'
+[2025.02.14-17.19.35:369][978]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.02.14-17.40.07:541][674]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:51.131 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 26380 files in 28595 folders with total size 5077 MiB.
+[2025.02.14-18.06.00:415][332]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Наушники (Beats Studio³ (Фараон)), InstanceID=1
+[2025.02.14-18.06.00:591][332]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21620
+[2025.02.14-18.06.00:927][333]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{804c636f-2b07-4422-9948-edbedc2889b4}, Name=Наушники (Beats Studio³ (Фараон))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=33.40
+[2025.02.14-18.06.00:927][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.02.14-18.06.00:929][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.02.14-18.16.02:731][139]LogWindowsTextInputMethodSystem: Activated input method: Russian (Russia) - (Keyboard).
+[2025.02.14-18.16.02:731][139]LogWindowsTextInputMethodSystem: Activated input method: Russian (Russia) - (Keyboard).
